@@ -205,7 +205,7 @@ main{
 
 /*----------------SERVICIOS PAG------------------*/
 .servicios__main{
-    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)), url(/img/tal-vez.jpeg) no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)), url(/img/fondo_pared.jpeg) no-repeat;
     background-size: cover;
     height: 78.7vh;
     .vanish{
@@ -289,7 +289,6 @@ main{
         border-radius: 15px;
         }
     }
-
     .section__titulo{
         text-align: left;
         padding-left: 20px;
@@ -363,7 +362,7 @@ main{
 }
 
 /*----------------MEDIA QUERIE | INDEX------------------*/
-@media (max-width: 360px){
+@media (max-width: 360px) {
     main{
         .main__parrafo{
             padding: 10px;
@@ -404,7 +403,6 @@ main{
 }
 
 /*----------------MEDIA QUERIE | PORTAFOLIO------------------*/
-
 @media (max-width: 360px) {
     main{
     .main__contenedor {
@@ -449,7 +447,6 @@ main{
 }
 
 /*----------------MEDIA QUERIE | CONTACTO------------------*/
-
 @media (max-width: 360px) {
     main{
         .main__titulo2{
@@ -479,5 +476,4 @@ main{
             display: flex;
         }
     }
-
 }

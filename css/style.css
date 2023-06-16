@@ -152,7 +152,7 @@ main .main__contenedor {
 
 /*----------------SERVICIOS PAG------------------*/
 .servicios__main {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url(/img/tal-vez.jpeg) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url(/img/fondo_pared.jpeg) no-repeat;
   background-size: cover;
   height: 78.7vh; }
   .servicios__main .vanish {
