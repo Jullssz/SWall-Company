@@ -5,7 +5,7 @@
 
 .body {
   background-color: lightgray;
-  font-family: Verdana, Geneva, Tahoma, sans-serif; }
+  font-family: "Roboto", sans-serif; }
 
 /*----------------ALL HEADER------------------*/
 .header {
@@ -33,18 +33,18 @@
         display: flex; }
         .header nav .menu li a:hover {
           background-color: #89826E;
-          color: black;
+          color: #000000;
           border-radius: 15px; }
 
 /*----------------INDEX PAG------------------*/
 main .main__titulo {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: "Black Han Sans", sans-serif;
   font-size: 3rem;
   text-align: center;
   padding: 15px; }
 
 main .main__parrafo {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Roboto", sans-serif;
   text-align: center; }
 
 main .main__carrusel {
@@ -56,8 +56,8 @@ main .main__carrusel {
 main .main__cards {
   padding: 2rem; }
   main .main__cards .card__item {
-    background-color: lightgray;
-    border: black 0.2rem solid; }
+    background-color: azure;
+    border: #000000 0.2rem solid; }
 
 /*----------------NOSOTROS PAG------------------*/
 main .nosotros__section {
@@ -73,7 +73,7 @@ main .nosotros__section {
       font-weight: bold; }
       main .nosotros__section .nosotros__parrafo .nosotros__links:hover {
         text-decoration: underline;
-        color: black; }
+        color: #000000; }
 
 main .nosotros__section2 {
   text-align: right;
@@ -88,7 +88,7 @@ main .nosotros__section2 {
       font-weight: bold; }
       main .nosotros__section2 .nosotros__parrafo .nosotros__links:hover {
         text-decoration: underline;
-        color: black; }
+        color: #000000; }
 
 /*----------------PORTAFOLIO PAG------------------*/
 main .main__contenedor {
@@ -185,7 +185,7 @@ main .section__redes {
 /*----------------ALL FOOTER------------------*/
 .footer {
   background-color: #89826e7f;
-  font-family: 'Dongle', sans-serif;
+  font-family: "Dongle", sans-serif;
   font-size: 1.5rem;
   text-align: center;
   font-style: italic;
@@ -196,7 +196,7 @@ main .section__redes {
     font-weight: bold; }
     .footer .footer__span .footer__link {
       text-decoration: none;
-      color: black; }
+      color: #000000; }
       .footer .footer__span .footer__link:hover {
         text-decoration: underline;
         color: whitesmoke; }
